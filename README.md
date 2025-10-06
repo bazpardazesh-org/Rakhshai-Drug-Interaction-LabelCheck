@@ -56,7 +56,7 @@ Rakhshai‑Drug-Interaction-LabelCheck/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-org/Rakhshai-Drug-Interaction-LabelCheck.git
+git clone https://github.com//bazpardazesh-org/Rakhshai-Drug-Interaction-LabelCheck.git
 cd Rakhshai-Drug-Interaction-LabelCheck
 ```
 
